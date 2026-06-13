@@ -1,0 +1,13 @@
+# SmartHub Solar — dependências Python
+# EV Challenge 2026 · FIAP × GoodWe · Soluções em Energias Renováveis e Sustentáveis
+#
+# Instalação:
+#     pip install -r requirements.txt
+#
+# Execução do dashboard:
+#     streamlit run src/app.py
+
+streamlit>=1.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0

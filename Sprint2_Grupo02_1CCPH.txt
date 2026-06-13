@@ -1,0 +1,29 @@
+==============================================================================
+EV CHALLENGE 2026 · FIAP x GoodWe
+Disciplina: Soluções em Energias Renováveis e Sustentáveis
+Professor: André Tritiack de Farias
+Sprint 2 - Prova de Conceito Funcional
+==============================================================================
+
+PROJETO: SmartHub Solar - Simulador de Despacho Energético Inteligente
+TURMA:   1CCPH
+
+------------------------------------------------------------------------------
+INTEGRANTES DO GRUPO
+------------------------------------------------------------------------------
+Joao Pedro do Vale Quagliano - RM 570233
+Leticia Aiko Okano           - RM 571988
+Thiago Calazans Luz Nakano   - RM 569151
+Enzo Scattolin Furtado       - RM 570824
+Guilherme De Lucena Fontes   - RM 569658
+Matheus Levi Dagel           - RM 571961
+
+------------------------------------------------------------------------------
+LINKS DA ENTREGA
+------------------------------------------------------------------------------
+Repositorio GitHub: (preencher apos criar o repositorio)
+Video YouTube:      (preencher apos upload em modo NAO LISTADO)
+
+==============================================================================
+FIM DO ARQUIVO DE ENTREGA
+==============================================================================
