@@ -28,7 +28,7 @@
 
 ### Demonstração em vídeo
 
-🎥 *(Link do YouTube — modo não listado — preencher após gravação)*
+🎥  https://youtu.be/rZrxjuAEeDI
 
 ---
 
@@ -157,7 +157,7 @@ A camada financeira respeita a estrutura tarifária ANEEL Branca (Res. 733/2016)
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/<organizacao>/smarthub-solar.git
+git clone https://github.com/JP-Quagliano/Sprint-02---SERS
 cd smarthub-solar
 
 # 2. (opcional) Crie um ambiente virtual

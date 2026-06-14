@@ -22,7 +22,7 @@ Matheus Levi Dagel           - RM 571961
 LINKS DA ENTREGA
 ------------------------------------------------------------------------------
 Repositorio GitHub: https://github.com/JP-Quagliano/Sprint-02---SERS
-Video YouTube:      (preencher apos upload em modo NAO LISTADO)
+Video YouTube: https://youtu.be/rZrxjuAEeDI
 
 ==============================================================================
 FIM DO ARQUIVO DE ENTREGA
